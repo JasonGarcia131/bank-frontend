@@ -1,4 +1,4 @@
-import {styles} from "./styles";
+import styles from "./styles";
 import { Navbar, Hero, Billing, Business, Button, CardDeal, Client, CTA, FeedbackCard, Footer, GetStarted, Stats, Testimonials } from "./components/"
 
 const App = () => {
