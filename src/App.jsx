@@ -28,8 +28,6 @@ const App = () => {
           <CTA/>
           <FeedbackCard/>
           <Footer/>
-          <GetStarted/>
-          <Button/>
         </div>
       </div>
     </div>
